@@ -1,0 +1,26 @@
+body {
+    width: 100%;
+    background: #707070;
+}
+
+img {
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    color: #643371;
+    font-family: "BBH Bogle", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    background-color: #d0a6dc;
+    width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+span {
+    color: #0a090a;
+}
